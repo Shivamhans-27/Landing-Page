@@ -32,7 +32,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/landing-page-project.git
+   git clone https://github.com/Shivamhans-27/landing-page-project.git
    ```
 
 2. Open the project folder in your preferred code editor.
